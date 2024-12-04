@@ -1,0 +1,17 @@
+flying_wasp.wav:
+https://freesound.org/people/smytheagain/sounds/502994/
+
+honey_hit.wav:
+https://freesound.org/people/AWildFilli/sounds/575506/
+
+pickup.wav:
+https://freesound.org/people/el_boss/sounds/665183/
+
+player_hurt.wav:
+https://freesound.org/people/mrickey13/sounds/515624/
+
+stone_door.ogg:
+https://opengameart.org/content/stone-door
+
+footsteps.wav:
+https://freesound.org/people/Letterborne/sounds/744710/

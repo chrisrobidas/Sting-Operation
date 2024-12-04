@@ -1,0 +1,36 @@
+# Ignore all binary build artifacts
+Binaries/...
+DerivedDataCache/...
+Intermediate/...
+Saved/...
+
+# Ignore any crash logs and user-specific files
+*.log
+*.vs
+*.sdf
+*.tmp
+*.vscode
+
+# Ignore Visual Studio Code settings
+.vscode/...
+
+# Ignore local temporary files
+*.local
+*.swp
+*.tmp
+*.bak
+*.log
+*.lock
+
+# Ignore OS-specific temporary files
+Thumbs.db
+.DS_Store
+
+# Ignore compiled Unreal Engine assets
+
+
+# Ignore Unreal Engine build files
+Build/...
+
+# Ignore backups
+Backup/...
